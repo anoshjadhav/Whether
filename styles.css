@@ -48,5 +48,9 @@ button:hover {
 .weather-info strong {
     font-weight: bold;
     margin-right: 5px;
-    color: #ff0000; /* Change this to your desired color value */
+    color:gray; /* Change this to your desired color value */
+}
+.weather-info{
+   
+    box-shadow: 1px 1px  lightgrey;
 }
